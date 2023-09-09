@@ -27,6 +27,7 @@ Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto
 6. Proveďte si zálohu originální složky **Germany** a tuto složku potom **SMAŽTE** (má jinou struktůru).
 7. Následně zkopírujte složku Germany z češtiny, kterou jste si před chvíli stáhli (zip třeba rozbalit :-) ).
 8. Ve hře přepněte jazyk na Germany a voilá!
+   
    (při úplném startu hry uvidíte stále neměcky press any button, bohužel text je asi zbuilden ve hře)
 
 *Upozrnění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
