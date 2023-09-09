@@ -24,10 +24,10 @@ Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto
    
     ![Alt text](https://i.imgur.com/IwE6CBz.png)
 
-6. Proveďte si zálohu originální složky **German** a tuto složku potom **SMAŽTE** (má jinou struktůru).
-7. Následně zkopírujte složku German z češtiny, kterou jste si před chvíli stáhli (zip třeba rozbalit :-) ).
-8. Ve hře přepněte jazyk na German a voilá!
+6. Proveďte si zálohu originální složky `German` a tuto složku potom **SMAŽTE** (má jinou struktůru).
+7. Následně zkopírujte složku `German` z češtiny, kterou jste si před chvíli stáhli (zip třeba rozbalit :-) ).
+8. Ve hře přepněte jazyk na `German` a voilá!
    
-   Při úplném startu hry stále uvidíte neměcky psaný text `Bliebige Taste drucken` (press any button), bohužel text je asi zbuilden ve hře a není brán z běžných překladů.
+   Při úplném startu hry stále uvidíte neměcky psaný text `Bliebige Taste drucken` (Press Any Button), bohužel text je asi zbuilden ve hře a není brán z běžných překladů.
 
 *Upozrnění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
