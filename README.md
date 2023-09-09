@@ -2,7 +2,7 @@
 
 Jedná se o strojový základní překlad textů s drobnými korekturami. Záměrem nebylo přeložit hru dokonale, ale pouze využít aktuální technologie k základnímu rychlému překladu.
 
-Překlad byl prováděn pomocí **deepl.com**.
+Překlad byl prováděn pomocí API **deepl.com**.
 
 **Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR čestiny a dává jim dostatečnou lásku! ♥**
 
