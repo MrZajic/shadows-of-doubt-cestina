@@ -20,7 +20,8 @@ Instalace je prováděna nahrazním již existujícího jazyku ve hře. V tomto 
 
     `vaše cesta\Shadows of Doubt\Shadows of Doubt_Data\StreamingAssets\Strings\`
 4. Zde uvidíte strukturu jednotlivých jazyků:
-![Alt text](https://i.imgur.com/IwE6CBz.png)
+   
+    ![Alt text](https://i.imgur.com/IwE6CBz.png)
 
 6. Proveďte si zálohu originální složky **Germany** a tuto složku potom **SMAŽTE** (má jinou struktůru).
 7. Následně zkopírujte složku Germany z češtiny, kterou jste si stáhli (zip třeba rozbalit :-) ).
