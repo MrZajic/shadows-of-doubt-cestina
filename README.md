@@ -4,7 +4,7 @@ Jedná se o strojový základní překlad textů s drobnými korekturami. Zámě
 
 Překlad byl prováděn pomocí API **deepl.com** a je bohužel zbaven diakritiky - font nepodporuje momentálně některé české znaky, takže lepší bylo je dát pryč úplně.
 
-**Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR češtiny. Stojí vás to mraky času, ale dáváte tomu lásku, kterou pořádná čeština stále prostě potřebuje a potřebovat bude! ♥**
+**Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR češtiny. Stojí vás to mraky času, ale dáváte tomu lásku, kterou pořádná čeština stále potřebuje a potřebovat bude! ♥**
 
 ## Instalace
 
