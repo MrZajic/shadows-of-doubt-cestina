@@ -8,7 +8,7 @@ Překlad byl prováděn pomocí API **deepl.com**.
 
 ## Instalace
 
-Instalace je prováděna nahrazním již existujícího jazyku ve hře. V tomto případě je pro to zneužito jazyk němčiny/Germany, kterou nahradí jiná verze.
+Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto případě je pro to zneužito jazyka němčiny/Germany, kterou nahradí jiná verze.
 
 1. Češtinu stáhnete zde: https://github.com/MrZajic/shadows-of-doubt-cestina/releases
     
@@ -25,7 +25,8 @@ Instalace je prováděna nahrazním již existujícího jazyku ve hře. V tomto 
     ![Alt text](https://i.imgur.com/IwE6CBz.png)
 
 6. Proveďte si zálohu originální složky **Germany** a tuto složku potom **SMAŽTE** (má jinou struktůru).
-7. Následně zkopírujte složku Germany z češtiny, kterou jste si stáhli (zip třeba rozbalit :-) ).
-8. Ve hře přepněte na jazyk: Germany a voilá! (při startu hry uvidíte stále neměcky press any button, bohužel text je asi zbuilden ve hře)
+7. Následně zkopírujte složku Germany z češtiny, kterou jste si před chvíli stáhli (zip třeba rozbalit :-) ).
+8. Ve hře přepněte jazyk na Germany a voilá!
+   (při úplném startu hry uvidíte stále neměcky press any button, bohužel text je asi zbuilden ve hře)
 
 *Upozrnění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
