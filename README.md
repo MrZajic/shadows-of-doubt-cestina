@@ -10,16 +10,18 @@ Překlad byl prováděn pomocí API **deepl.com** a je bohužel zbaven diakritik
 
 Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto případě je pro to zneužito jazyka němčiny/German, kterou nahradí jiná verze.
 
-1. Češtinu stáhnete zde: https://github.com/MrZajic/shadows-of-doubt-cestina/releases
-    
-    Vás bude zajímat nejnovější verze a soubor: `sod-cestina-{verze}.zip`. Ten si prozatím stáhněte.
+1. Při stahnování češtiny Vás bude zajímat nejnovější verze a soubor: `sod-cestina-{verze}.zip`.
 
-2. Lokalizujte instalaci vaší hry. Například:
+    Češtinu stáhnete zde: 
+    https://github.com/MrZajic/shadows-of-doubt-cestina/releases
+    
+
+3. Lokalizujte instalaci vaší hry. Například:
 `F:\SteamLibrary\steamapps\common\Shadows of Doubt`
-3. Pokračujte a jděte do složky:
+4. Pokračujte a jděte do složky:
 
     `vaše cesta\Shadows of Doubt\Shadows of Doubt_Data\StreamingAssets\Strings\`
-4. Zde uvidíte strukturu jednotlivých jazyků:
+5. Zde uvidíte strukturu jednotlivých jazyků:
 
    
     ![Alt text](https://i.imgur.com/IwE6CBz.png)
