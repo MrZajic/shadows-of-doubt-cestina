@@ -4,7 +4,7 @@ Jedná se o strojový základní překlad textů s drobnými korekturami. Zámě
 
 Překlad byl prováděn pomocí API **deepl.com**.
 
-**Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR čestiny. Stojí vás to čas ale dáváte tomu lásku, kterou pořádná čeština stále potřebuje! ♥**
+**Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR čestiny. Stojí vás to čas, ale dáváte tomu lásku, kterou pořádná čeština stále prostě potřebuje a potřebovat bude! ♥**
 
 ## Instalace
 
