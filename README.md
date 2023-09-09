@@ -20,6 +20,7 @@ Instalace je prováděna nahrazním již existujícího jazyku ve hře. V tomto 
 
     `vaše cesta\Shadows of Doubt\Shadows of Doubt_Data\StreamingAssets\Strings\`
 4. Zde uvidíte strukturu jednotlivých jazyků:
+
    
     ![Alt text](https://i.imgur.com/IwE6CBz.png)
 
