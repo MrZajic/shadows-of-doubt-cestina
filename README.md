@@ -12,8 +12,11 @@ Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto
 
 1. Při stahnování češtiny Vás bude zajímat nejnovější verze a soubor: `sod-cestina-{verze}.zip`.
 
-    Češtinu stáhnete zde: 
-    https://github.com/MrZajic/shadows-of-doubt-cestina/releases
+    Poslední verzi češtiny stáhnete zde:
+    https://github.com/MrZajic/shadows-of-doubt-cestina/releases/lastest
+
+    <sub>*Všechny verze češtiny:*
+    https://github.com/MrZajic/shadows-of-doubt-cestina/releases</sub>
     
 
 3. Lokalizujte instalaci vaší hry. Například:
