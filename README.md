@@ -36,3 +36,7 @@ Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto
    Při úplném startu hry stále uvidíte neměcky psaný text `Bliebige Taste drucken` (Press Any Button), bohužel text je asi zbuilden ve hře a není brán z běžných překladů.
 
 *Upozrnění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
+
+## Nedostatky
+- texty jsou bez diakritiky
+- v momentální chvíli se musí nahrazovat již existující jazyk
