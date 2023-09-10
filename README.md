@@ -35,9 +35,10 @@ Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto
    
 Při úplném startu hry stále uvidíte neměcky psaný text `Bliebige Taste drucken` (Press Any Button), bohužel text je asi zbuilden ve hře a není brán z běžných překladů.
 
-*Upozrnění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
+*Upozornění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
 
 ## Nedostatky
 - Texty jsou bez diakritiky (problém s fontem v buildu).
 - V momentální chvíli se musí nahrazovat již existující jazyk.
 - V některých případech jsou některé slova nemožné úplně přeložit do správného kontextu ve hře. Některé z nich sdílí stejný překlad/label ačli v češtině by jste je nazvali jinak např. `Bin`, který je ve hře použit jak pro `Popelnice(kontejner)`/`Odpadkový koš`.
+
