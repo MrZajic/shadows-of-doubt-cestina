@@ -38,6 +38,6 @@ Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto
 *Upozrnění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
 
 ## Nedostatky
-- Texty jsou bez diakritiky.
+- Texty jsou bez diakritiky (problém s fontem v buildu).
 - V momentální chvíli se musí nahrazovat již existující jazyk.
 - V některých případech jsou některé slova nemožné úplně přeložit do správného kontextu ve hře. Některé z nich sdílí stejný překlad/label ačli v češtině by jste je nazvali jinak např. `Bin`, který je ve hře použit jak pro `Popelnice(kontejner)`/`Odpadkový koš`.
