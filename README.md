@@ -12,7 +12,7 @@ Překlad byl proveden pomocí API **deepl.com** a je bohužel zbaven diakritiky 
 
 Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto případě je pro to zneužito jazyka němčiny/German, kterou nahradí jiná verze.
 
-1. Při stahování češtiny Vás bude zajímat nejnovější verze a soubor: `sod-cestina-{verze}.zip`.
+1. Při stahování češtiny Vás bude zajímat nejnovější verze a u ní soubor: `Source code (zip)` nebo `Source code(tar.gz)` (jak jste zvyklí, jiná komprese).
 
     Poslední verzi češtiny stáhnete zde:
     https://github.com/MrZajic/shadows-of-doubt-cestina/releases/latest
