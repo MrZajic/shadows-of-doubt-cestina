@@ -40,7 +40,7 @@ Při úplném startu hry stále uvidíte německy psaný text `Bliebige Taste dr
 *Upozornění: strojový překlad častokrát nezná pořádný kontext a ačli proběhla nějaká základní korektura, tak spousta překladů může být velice úsměvných!*
 
 ## Postoj vývojářů
-V momentálním stavu hry potvrdili, že některé věci prostě oficiálně nejdou. Mají v plánu udělat i další lokalizace, ale nyní stále pracují i na textu samotným a dalších updatech co by mohly něco umožnit :-).  Defakto by si přidávali práci při vývoji a musíte brát, že je to stále ve stavu předběžného přístupu. 
+V momentálním stavu hry potvrdili, že některé věci prostě oficiálně nejdou. Mají v plánu udělat i další lokalizace, ale nyní stále pracují i na textu samotném a dalších updatech co by mohly něco umožnit :-).  Defakto by si přidávali práci při vývoji a musíte brát, že je to stále ve stavu předběžného přístupu. 
 
 ## Nedostatky
 - Texty jsou bez diakritiky (problém s fontem v buildu).
