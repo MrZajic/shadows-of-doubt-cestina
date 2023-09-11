@@ -6,7 +6,7 @@ Překlad byl proveden pomocí API **deepl.com** a je bohužel zbaven diakritiky 
 
 **Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR češtiny. Stojí vás to mraky času, ale dáváte tomu lásku, kterou pořádná čeština stále potřebuje a potřebovat bude! ♥**
 
-PS Nijak se překlady nezabývám. Prostě jsem se probral a udělal to.
+<sub>PS Nijak se překlady nezabývám. Prostě jsem se probral a udělal to.</sub>
 
 ## Instalace
 
