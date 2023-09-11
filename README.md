@@ -6,6 +6,8 @@ Překlad byl proveden pomocí API **deepl.com** a je bohužel zbaven diakritiky 
 
 **Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR češtiny. Stojí vás to mraky času, ale dáváte tomu lásku, kterou pořádná čeština stále potřebuje a potřebovat bude! ♥**
 
+PS Nijak se překlady nezabývám. Prostě jsem se probral a udělal to.
+
 ## Instalace
 
 Instalace je prováděna nahrazením již existujícího jazyku ve hře. V tomto případě je pro to zneužito jazyka němčiny/German, kterou nahradí jiná verze.
