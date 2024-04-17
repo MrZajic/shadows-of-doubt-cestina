@@ -2,7 +2,7 @@
 
 Jedná se o strojový základní překlad textů s drobnými korekturami. Záměrem nebylo přeložit hru dokonale, ale pouze využít aktuální technologie k základnímu rychlému překladu.
 
-Překlad byl proveden pomocí API **deepl.com**..
+Překlad byl proveden pomocí API **deepl.com**.
 
 **Překlad se profesionálnímu překladu nevyrovná a všechna čest všem překladatelům kdo dělá v ČR češtiny. Stojí vás to mraky času, ale dáváte tomu lásku, kterou pořádná čeština stále potřebuje a potřebovat bude! ♥**
 
@@ -30,6 +30,6 @@ Do hry je stále přidáván obsah a stále se může lecos změnit stejně tak 
 V plánu bylo vydání na mod.io, ale zatím se neví jaká má být struktůra aby ji hra akceptovala automaticky.
 
 ## Nedostatky
-- Texty jsou bez diakritiky (problém s fontem v buildu).
+- Texty jsou bez diakritiky, bude potřeba doplnit (již by s tím hra neměla mít problém)
 - V některých případech jsou některé slova nemožné úplně přeložit do správného kontextu ve hře. Některé z nich sdílí stejný překlad/label ačli v češtině by jste je nazvali jinak např. `Bin`, který je ve hře použít jak pro `Popelnice(kontejner)`/`Odpadkový koš`.
 
