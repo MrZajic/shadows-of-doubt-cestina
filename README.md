@@ -11,6 +11,7 @@ Překlad byl proveden pomocí API **deepl.com**.
 ## Instalace
 1. Stáhni soubor `Source code (zip)` nebo `Source code(tar.gz)` z https://github.com/MrZajic/shadows-of-doubt-cestina/releases/latest:
 
+(všechny verze: https://github.com/MrZajic/shadows-of-doubt-cestina/releases)
 
 2. Najdi instalaci hry. Například:
    `F:\SteamLibrary\steamapps\common\Shadows of Doubt\Shadows of Doubt_Data`
