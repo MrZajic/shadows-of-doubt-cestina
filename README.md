@@ -27,7 +27,7 @@ Překlad byl proveden pomocí API **deepl.com**.
 ## Upozornění
 Do hry je stále přidáván obsah a stále se může lecos změnit stejně tak texty a jejich klíčování. Při update také může překlad zmizet a musí být stažen znovu (zatím neoveřeno).
 
-V plánu bylo vydání na mod.io, ale zatím se neví jaká má být struktůra aby ji hra akceptovala automaticky.
+V plánu bylo vydání na mod.io, ale zatím se neví jaká má být struktura aby ji hra akceptovala automaticky.
 
 ## Nedostatky
 - Texty jsou bez diakritiky, bude potřeba doplnit (již by s tím hra neměla mít problém)
