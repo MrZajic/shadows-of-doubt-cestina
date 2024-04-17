@@ -1,0 +1,9 @@
+{
+    "languageCode": "Czech",
+    "displayName": "Čeština",
+    "documentColumn": 10,
+    "systemLanguage": 20,
+    "swapCitizenTitleOrder": false,
+    "staticKillerMoniker": false,
+    "startText": "Stiskněte libovolné tlačítko"
+}
