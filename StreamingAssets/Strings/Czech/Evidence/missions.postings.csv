@@ -121,3 +121,11 @@
 "cause Cr|revengeamount| of vandalism at the workplace of |purp.name| by breaking windows.","Cause Cr|revengeamount| of vandalism at the workplace of |purp.name| by breaking windows","Zpusobeni Cr|revengeamount| vandalismu na pracovisti |purp.name| rozbitim oken",,,,"11:59 09/01/2023"
 "cause Cr|revengeamount| of vandalism at the workplace of the target by breaking windows.","Cause Cr|revengeamount| of vandalism at the workplace of the target by breaking windows.","Zpusobit Cr|revengeamount| vandalismus na pracovisti s cilem rozbiti oken.",,,,"11:59 09/01/2023"
 "wait for the meeting to take place","Wait for the meeting to take place","Pockejte, az se schuzka uskutecni",,,,"12:13 21/03/2023"
+"without anybody seeing, dispose of the body at: ",,"Aniž by to někdo viděl, zlikvidujte tělo na: ",,,,"15:08 20/03/2024"
+"hint: you can dispose of a body by throwing it into the sea or a dumpster",,"Tip: Tělo můžete zlikvidovat tak, že ho hodíte do moře nebo do popelnice",,,,"15:26 20/03/2024"
+"examine the ransom note found at ",,"Prozkoumejte výkupné na adrese: ",,,,"16:07 28/03/2024"
+"ransom ",,"Volitelné: Umístěte aktovku s Cr|killer.nextmurder.ransom| ve sklepě na |ransomlocation|",,,,"16:08 28/03/2024"
+"call to trigger ransom ",,"Volitelné: Chcete-li vybrat výkupné, volejte: ",,,,"11:58 29/03/2024"
+"ransom_wait",,"Počkejte, až bude vyzvednut kufřík s výkupným...",,,,"12:00 29/03/2024"
+"set_victim_free",,"Zachraň |killer.nextmurder.victim.name| pomocí |killer.nextmurder.kidnapkilltime.time12rounded15|",,,,
+"ransom_wait_free",,"Čekej na |killer.nextmurder.victim.name| než bude osvobozen...",,,,"16:07 29/03/2024"
