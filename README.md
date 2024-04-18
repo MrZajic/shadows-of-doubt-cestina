@@ -1,4 +1,4 @@
-# Shadows of Doubt - čeština
+# Shadows of Doubt - skoro čeština
 
 Jedná se o strojový základní překlad textů s drobnými korekturami. Záměrem nebylo přeložit hru dokonale, ale pouze využít aktuální technologie k základnímu rychlému překladu.
 
