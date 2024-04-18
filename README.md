@@ -28,6 +28,6 @@ V plánu bylo vydání na mod.io, ale zatím se neví jaká má být struktura p
 ## Nedostatky
 - Texty byly historicky bez diakritiky, jelikož byla minimálně podpora diakritiky pro češtinu. Byla trochu doplněna, ale ne úplně.
 - V některých případech jsou některé slova nemožné úplně přeložit do správného kontextu ve hře. Některé z nich sdílí stejný překlad/label ačli v češtině by jste je nazvali jinak např. `Bin`, který je ve hře použít jak pro `Popelnice(kontejner)`/`Odpadkový koš`.
-- Hra stále přidává nové texty, bohužel některé konverzace se pak pravděpodobně objeví v angličtině. Je to o souboru `DDD/dds.blocks.csv`.
+- Hra stále přidává nové texty, bohužel některé konverzace se pak pravděpodobně objeví v angličtině. Je to o souboru `DDS/dds.blocks.csv`.
 - sem tam některá diakritika nemá úplně vyladěný font
 
