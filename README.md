@@ -2,7 +2,7 @@
 ⚠️⚠️ Čeština už není udržovaná, pravděpodobně aktualnější fork:
 https://github.com/Alien4042x/shadows-of-doubt-cestina
 
-# Shadows of Doubt - skoro čeština
+# ~Shadows of Doubt - skoro čeština~
 
 Jedná se o strojový základní překlad textů s drobnými korekturami. Záměrem nebylo přeložit hru dokonale, ale pouze využít aktuální technologie k základnímu rychlému překladu.
 
